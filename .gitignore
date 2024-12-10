@@ -7,3 +7,4 @@ Thumbs.db
 .mypy_cache/
 .venv/
 .env
+db.sqlite3
